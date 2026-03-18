@@ -7,8 +7,11 @@ Dưới đây là các sản phẩm của tôi đã phát hành trên **Google P
 <a href="https://play.google.com/store/apps/details?id=com.stickman.dragon.fight.stick.warriors.stickmanwarriors">
   <img src="https://play-lh.googleusercontent.com/-NozOYBMZc5TOTmGXPDuuILOiYjFOhT00BEt9GGmiRUfEq3HS0aL5Lowcx8kxlU22g=w2560-h1440-rw" width="100%" alt="Game Ngang">
 </a>
-<br>
-<sub>(https://play.google.com/store/apps/details?id=com.stickman.dragon.fight.stick.warriors.stickmanwarriors))</sub>
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.stickman.dragon.fight.stick.warriors.stickmanwarriors">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="120">
+  </a>
+</p>
 
 ---
 | Game Icon | Tên Game & Mô tả | Tải về |
