@@ -3,17 +3,10 @@
 
 Dưới đây là các sản phẩm của tôi đã phát hành trên **Google Play Store**:
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px;">
-  <span style="font-size: 1.6em; font-weight: bold;">Stickman Dragon Fight</span>
-  <a href="https://play.google.com/store/apps/details?id=com.stickman.dragon.fight.stick.warriors.stickmanwarriors" target="_blank">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="130">
-  </a>
-</div>
-
+## Stickman Dragon Fight
 <a href="https://play.google.com/store/apps/details?id=com.stickman.dragon.fight.stick.warriors.stickmanwarriors">
-  <img src="https://play-lh.googleusercontent.com/-NozOYBMZc5TOTmGXPDuuILOiYjFOhT00BEt9GGmiRUfEq3HS0aL5Lowcx8kxlU22g=w2560-h1440-rw" width="100%" alt="Gameplay Ngang">
+  <img src="https://play-lh.googleusercontent.com/-NozOYBMZc5TOTmGXPDuuILOiYjFOhT00BEt9GGmiRUfEq3HS0aL5Lowcx8kxlU22g=w2560-h1440-rw" width="100%" alt="Stickman Dragon Fight - Google Play Edition">
 </a>
-
 ---
 
 ### **Stickman Dragon Fight**
