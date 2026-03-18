@@ -3,6 +3,13 @@
 
 Dưới đây là các sản phẩm của tôi đã phát hành trên **Google Play Store**:
 
+## 🚀 TÊN GAME MÀN NGANG <a href="LINK_PLAY_NGANG" align="right"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="110"></a>
+<a href="https://play.google.com/store/apps/details?id=com.stickman.dragon.fight.stick.warriors.stickmanwarriors">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="100%" alt="Game Ngang High Res">
+</a>
+
+---
+
 ### **Stickman Dragon Fight**
 <a href="https://play.google.com/store/apps/details?id=com.stickman.dragon.fight.stick.warriors.stickmanwarriors">
   <img src="https://play-lh.googleusercontent.com/-NozOYBMZc5TOTmGXPDuuILOiYjFOhT00BEt9GGmiRUfEq3HS0aL5Lowcx8kxlU22g=w2560-h1440-rw" width="100%" alt="Game Ngang">
