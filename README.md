@@ -1,4 +1,4 @@
-# portfolio
+<img width="810" height="1440" alt="image" src="https://github.com/user-attachments/assets/880b8c54-c7d8-43f7-b793-c8f30cb31f57" /><img width="810" height="1440" alt="image" src="https://github.com/user-attachments/assets/7aeae782-dbf7-442d-be2d-f3bfc0221edf" /><img width="810" height="1440" alt="image" src="https://github.com/user-attachments/assets/45e0b32b-2138-4a8f-bee8-b179cb1a8837" /><img width="810" height="1440" alt="image" src="https://github.com/user-attachments/assets/6e1b345f-ad6b-4b71-abb4-ac781e2333d2" />
 # Hi! Tôi là một Game Developer 🎮
 
 Dưới đây là các sản phẩm của tôi đã phát hành trên **Google Play Store**:
@@ -15,20 +15,27 @@ Dưới đây là các sản phẩm của tôi đã phát hành trên **Google P
 | :---: | :---: | :---: |
 
 ---
-## 🧩 Runhole: People Escape
-| <a href="LINK_STORE_2"><img src="LINK_ANH_DOC_4" width="100%"></a> | <a href="LINK_STORE_2"><img src="LINK_ANH_DOC_5" width="100%"></a> | <a href="LINK_STORE_2"><img src="LINK_ANH_DOC_6" width="100%"></a> |
+## 🧩 *Talking Juan - Troll Juan
+| <a href="https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan"><img src="https://play-lh.googleusercontent.com/Vfd4quLnACMgIgAI3F3OcGjMq1XCqNrc_s0CWADVtvu33bWN15fDuVTTlPXmflL4lvsz=w2560-h1440-rw" width="100%"></a> | <a href="https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan"><img src="https://play-lh.googleusercontent.com/ymKThbyLUDqfU2ja8toBlzAkhhp0C36YKOByGxSpoBdNH5d2zBBihAgbWIOJ5EA6ZU0=w2560-h1440-rw" width="100%"></a> | <a href="https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan"><img src="https://play-lh.googleusercontent.com/PWjWMErPB7ZvUJsK_yBen0Bg2z_y4KA0t7FV0kYon-mIs4qVx014E7h5OHf8gj-URsw=w2560-h1440-rw" width="100%"></a> |
 | :---: | :---: | :---: |
 
 ---
 
-| Game Icon | Tên Game & Mô tả | Tải về |
-| :--- | :--- | :--- |
-| <img src="https://play-lh.googleusercontent.com/-NozOYBMZc5TOTmGXPDuuILOiYjFOhT00BEt9GGmiRUfEq3HS0aL5Lowcx8kxlU22g=w2560-h1440-rw" width="1920"> | **Stickman Dragon Fight** <br> Action Game 2D. | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.stickman.dragon.fight.stick.warriors.stickmanwarriors) |
-| <img src="https://play-lh.googleusercontent.com/iQyHyccJHYoH1gDl1SfyIq-mdHWHAR6tpbxzLAM7MxHwDaetnz3QvhZloff2_ieBgt3y0uPL6n6Fi31uTNq-=w2560-h1440-rw" width="1080"> | **Runhole: People Escape** <br> Puzzle Game 3D. | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.runhole.people.escape) |
-| <img src="https://play-lh.googleusercontent.com/q8GNovkCGqwBBHWIASA9BWckCq7KowU94dMjvvzfVjyNe0Kl2wb9Dwn-Hb5Mv-xeEA=w2560-h1440-rw" width="1080"> | **Talking Juan - Troll Juan** <br> Simulation Game 2D. | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan) |
-| <img src="https://play-lh.googleusercontent.com/kFN7kWcmH_twUp7fcrYyqwVZiwVNmZqMlIjjwjzW3zI3sTjWtccpEDV5lEQOWkzLcA=w2560-h1440-rw" width="1080"> | **Bricks Breaker Rescue** . | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.brickbreaker.breakerrescue.ballcrusher) |
-| <img src="https://play-lh.googleusercontent.com/E18PhSnhYyXCnLjrNrxUq8DJ8SgwIJby9BeIwIPfJLSIJ-sKjCPH7HPP82Hrez7Lc8w=w2560-h1440-rw" width="1920"> | **Stick Ninja Fight** . | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.stickman.ninja.fight.stickninja) |
-| <img src="https://play-lh.googleusercontent.com/6Y_eayA1_d91iNQ5weK7QBePdqm1ZxTx0E1KN4wJhsRRLyDIclMUHhucZOLjQWf8AkI=w2560-h1440-rw" width="1080"> | **Collect Ball: Home Sweet Home** . | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.collectbal.sweethome.unpack) |
+## 🧩 Bricks Breaker Rescue
+| <a href="https://play.google.com/store/apps/details?id=com.brickbreaker.breakerrescue.ballcrusher"><img src="https://play-lh.googleusercontent.com/tfXDuNFR_81_rmqhyDhyKYY-PVdeHj-Tb8j08qbcXQzoXBZfGdMoQSjsj9fbv7iBFQ=w2560-h1440-rw" width="100%"></a> | <a href="https://play.google.com/store/apps/details?id=com.brickbreaker.breakerrescue.ballcrusher"><img src="https://play-lh.googleusercontent.com/fm_kSsxTVKFZFzzVSGTR44sljobBfxuKUnnwC1m_vLqxpzQl083ga2NnUlA7qkFW9w=w2560-h1440-rw" width="100%"></a> | <a href="https://play.google.com/store/apps/details?id=com.brickbreaker.breakerrescue.ballcrusher"><img src="https://play-lh.googleusercontent.com/9gssX2QhoxzFxAp_RNuV2WaQ7aQ41Gy7NrjgOmZHtrs5XEd_Im2LbwokdNl536CKNA=w2560-h1440-rw" width="100%"></a> |
+| :---: | :---: | :---: |
+
+---
+## ⚔️ Stick Ninja Fight
+<a href="https://play.google.com/store/apps/details?id=com.stickman.ninja.fight.stickninja">
+  <img src="https://play-lh.googleusercontent.com/E18PhSnhYyXCnLjrNrxUq8DJ8SgwIJby9BeIwIPfJLSIJ-sKjCPH7HPP82Hrez7Lc8w=w2560-h1440-rw" width="100%" alt="Stickman Dragon Fight Gameplay">
+</a>
+
+---
+
+## 🧩 Collect Ball: Home Sweet Home
+| <a href="https://play.google.com/store/apps/details?id=com.collectbal.sweethome.unpack"><img src="https://play-lh.googleusercontent.com/YuxfSAlR4kvoLjG25eKOfDuT8wHpnrBUKyUYOVsfQ6rf_DUUuj9xyuE4nY9Ohyd7Kg=w2560-h1440-rw" width="100%"></a> | <a href="https://play.google.com/store/apps/details?id=com.collectbal.sweethome.unpack"><img src="https://play-lh.googleusercontent.com/6Y_eayA1_d91iNQ5weK7QBePdqm1ZxTx0E1KN4wJhsRRLyDIclMUHhucZOLjQWf8AkI=w2560-h1440-rw" width="100%"></a> | <a href="https://play.google.com/store/apps/details?id=com.collectbal.sweethome.unpack"><img src="https://play-lh.googleusercontent.com/hsMMkarSRmhwBDV8eBShZQ3A2TU8-ud9jwJae22HVw1PH65KUvBKqUxA7wyRwXkfXpU=w2560-h1440-rw" width="100%"></a> |
+| :---: | :---: | :---: |
 
 ---
 
