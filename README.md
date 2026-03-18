@@ -1,4 +1,4 @@
-<img width="810" height="1440" alt="image" src="https://github.com/user-attachments/assets/eccf819f-6087-40d8-9b0a-d8dea343418c" /># portfolio
+# portfolio
 # Hi! Tôi là một Game Developer 🎮
 
 Dưới đây là các sản phẩm của tôi đã phát hành trên **Google Play Store**:
@@ -11,8 +11,12 @@ Dưới đây là các sản phẩm của tôi đã phát hành trên **Google P
 
 ---
 ## 🧩 Runhole: People Escape
-| <a href="https://play.google.com/store/apps/details?id=com.runhole.people.escape"><img src="https://play-lh.googleusercontent.com/m_ZE71cNfNRb6Escis6PpGmPf-H3hneefTIIIvoKwqXb9j5I6yc7Aa-SuqTVl7BjN9yVgHAV_IaRuQMmZgI2Mg=w2560-h1440-rw" width="100%"></a> | <a href="https://play.google.com/store/apps/details?id=com.runhole.people.escape"><img src="https://play-lh.googleusercontent.com/iQyHyccJHYoH1gDl1SfyIq-mdHWHAR6tpbxzLAM7MxHwDaetnz3QvhZloff2_ieBgt3y0uPL6n6Fi31uTNq-=w2560-h1440-rw" width="100%"></a> | <a href="https://play.google.com/store/apps/details?id=com.runhole.people.escape"><img src="<img width="810" height="1440" alt="image" src="https://github.com/user-attachments/assets/ce5061c8-4935-460c-9fad-9d99f6907dfe" />
-" width="100%"></a> |
+| <a href="https://play.google.com/store/apps/details?id=com.runhole.people.escape"><img src="https://play-lh.googleusercontent.com/Fh2sT8LCSR2k132AbCoW7pvpfQURKCOui3NWUdocahO1Ft-GAqoBw8kMeHJC6u4h3NKfcQ_KtG3DCFXhmbmJRZg=w2560-h1440-rw" width="100%"></a> | <a href="https://play.google.com/store/apps/details?id=com.runhole.people.escape"><img src="https://play-lh.googleusercontent.com/m_ZE71cNfNRb6Escis6PpGmPf-H3hneefTIIIvoKwqXb9j5I6yc7Aa-SuqTVl7BjN9yVgHAV_IaRuQMmZgI2Mg=w2560-h1440-rw" width="100%"></a> | <a href="https://play.google.com/store/apps/details?id=com.runhole.people.escape"><img src="https://play-lh.googleusercontent.com/iQyHyccJHYoH1gDl1SfyIq-mdHWHAR6tpbxzLAM7MxHwDaetnz3QvhZloff2_ieBgt3y0uPL6n6Fi31uTNq-=w2560-h1440-rw" width="100%"></a> |
+| :---: | :---: | :---: |
+
+---
+## 🧩 Runhole: People Escape
+| <a href="LINK_STORE_2"><img src="LINK_ANH_DOC_4" width="100%"></a> | <a href="LINK_STORE_2"><img src="LINK_ANH_DOC_5" width="100%"></a> | <a href="LINK_STORE_2"><img src="LINK_ANH_DOC_6" width="100%"></a> |
 | :---: | :---: | :---: |
 
 ---
