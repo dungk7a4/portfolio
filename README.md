@@ -1,9 +1,7 @@
-# portfolio
+<img width="810" height="1440" alt="image" src="https://github.com/user-attachments/assets/eccf819f-6087-40d8-9b0a-d8dea343418c" /># portfolio
 # Hi! Tôi là một Game Developer 🎮
 
 Dưới đây là các sản phẩm của tôi đã phát hành trên **Google Play Store**:
-
-## Stickman Dragon Fight
 ---
 
 ## ⚔️ Stickman Dragon Fight
@@ -12,6 +10,13 @@ Dưới đây là các sản phẩm của tôi đã phát hành trên **Google P
 </a>
 
 ---
+## 🧩 Runhole: People Escape
+| <a href="https://play.google.com/store/apps/details?id=com.runhole.people.escape"><img src="https://play-lh.googleusercontent.com/m_ZE71cNfNRb6Escis6PpGmPf-H3hneefTIIIvoKwqXb9j5I6yc7Aa-SuqTVl7BjN9yVgHAV_IaRuQMmZgI2Mg=w2560-h1440-rw" width="100%"></a> | <a href="https://play.google.com/store/apps/details?id=com.runhole.people.escape"><img src="https://play-lh.googleusercontent.com/iQyHyccJHYoH1gDl1SfyIq-mdHWHAR6tpbxzLAM7MxHwDaetnz3QvhZloff2_ieBgt3y0uPL6n6Fi31uTNq-=w2560-h1440-rw" width="100%"></a> | <a href="https://play.google.com/store/apps/details?id=com.runhole.people.escape"><img src="<img width="810" height="1440" alt="image" src="https://github.com/user-attachments/assets/ce5061c8-4935-460c-9fad-9d99f6907dfe" />
+" width="100%"></a> |
+| :---: | :---: | :---: |
+
+---
+
 | Game Icon | Tên Game & Mô tả | Tải về |
 | :--- | :--- | :--- |
 | <img src="https://play-lh.googleusercontent.com/-NozOYBMZc5TOTmGXPDuuILOiYjFOhT00BEt9GGmiRUfEq3HS0aL5Lowcx8kxlU22g=w2560-h1440-rw" width="1920"> | **Stickman Dragon Fight** <br> Action Game 2D. | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.stickman.dragon.fight.stick.warriors.stickmanwarriors) |
